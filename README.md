@@ -1,1 +1,1 @@
-# accountmananger
+# accountmanager
